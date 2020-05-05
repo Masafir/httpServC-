@@ -1,0 +1,11 @@
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\bin\Debug\netcoreapp3.0\httpServCsharp.exe
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\bin\Debug\netcoreapp3.0\httpServCsharp.deps.json
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\bin\Debug\netcoreapp3.0\httpServCsharp.runtimeconfig.json
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\bin\Debug\netcoreapp3.0\httpServCsharp.runtimeconfig.dev.json
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\bin\Debug\netcoreapp3.0\httpServCsharp.dll
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\bin\Debug\netcoreapp3.0\httpServCsharp.pdb
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\obj\Debug\netcoreapp3.0\httpServCsharp.csprojAssemblyReference.cache
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\obj\Debug\netcoreapp3.0\httpServCsharp.AssemblyInfoInputs.cache
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\obj\Debug\netcoreapp3.0\httpServCsharp.AssemblyInfo.cs
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\obj\Debug\netcoreapp3.0\httpServCsharp.dll
+C:\Users\Amiral\Desktop\ods\httpServC-\httpServCsharp\obj\Debug\netcoreapp3.0\httpServCsharp.pdb
